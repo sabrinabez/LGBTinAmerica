@@ -5,6 +5,7 @@
 
 body {
   background-color: #1a1a1a;
+  overflow: scroll;
 }
 
 .head {
@@ -49,6 +50,21 @@ margin-bottom: -2%;
   margin-right: 5%;
 }
 
+.section{
+  padding-top: 500px;
+  padding-bottom: 500px;
+  width: 50%;
+  color: #fefefe;
+  font-family: 'Oxygen',sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  line-height:1.25;
+  text-rendering: optimizeLegibility;
+  text-align:center;
+  margin-left: 5%;
+  margin-right: 5%; 
+}
+
 .intro p{
   width: 35%;
   padding-left: 5%;
@@ -90,6 +106,14 @@ margin-bottom: -2%;
   background-color: #fefefe;
   color: black;
 }
+.content {
+  position: absolute;
+  display: block;
+}
+
+.particles-js{
+  position: fixed;
+}
 
 
 @media only screen and (max-width: 900px){
@@ -119,6 +143,10 @@ margin-bottom: -2%;
   }
 
   .intro p{
+    width: 90%;
+  }
+
+  .section{
     width: 90%;
   }
 }
