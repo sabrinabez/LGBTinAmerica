@@ -46,8 +46,8 @@ margin-bottom: -2%;
   line-height:1.25;
   text-rendering: optimizeLegibility;
   text-align:center;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section{
@@ -61,8 +61,13 @@ margin-bottom: -2%;
   line-height:1.25;
   text-rendering: optimizeLegibility;
   text-align:center;
-  margin-left: 5%;
-  margin-right: 5%; 
+  margin-left: auto;
+  margin-right: auto;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap; 
+  -webkit-align-content: center;
+  align-content: center;
 }
 
 .intro p{
