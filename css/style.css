@@ -6,6 +6,7 @@
 body {
   background-color: #1a1a1a;
   overflow: scroll;
+  overflow-x:hidden;
 }
 
 .head {
@@ -117,7 +118,12 @@ margin-bottom: -2%;
 }
 
 .particles-js{
-  position: fixed;
+  position: absolute;
+}
+
+.particles-js audio, canvas, progress, video {
+    display: inline-block;
+    position: fixed;
 }
 
 
