@@ -18,9 +18,9 @@ body {
   font-size: 2000%;
   text-rendering: optimizeLegibility;
   text-align: center;
-overflow-x:hidden;
-overflow-y:hidden;
-margin-bottom: -2%;
+  overflow-x:hidden;
+  overflow-y:hidden;
+  margin-bottom: -2%;
   width: 100%;
 }
 .head-lower{
@@ -46,6 +46,8 @@ margin-bottom: -2%;
 
 .imaged img{
  width: 60%;
+ padding-left: 20%;
+ padding-right: 20%;
 }
 
 .intro {
@@ -142,6 +144,11 @@ margin-bottom: -2%;
   .intro p{
     width: 80%;
   }
+  .imaged img{
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
 }
 
 @media only screen and (max-width: 650px){
@@ -169,6 +176,8 @@ margin-bottom: -2%;
   .section{
     width: 90%;
   }
+
+
 }
 
 @media only screen and (max-width: 450px){
@@ -178,6 +187,11 @@ margin-bottom: -2%;
 
 .section p{
       font-size: 18px;
+}
+.imaged img{
+ width: 100%;
+ padding-left: 0;
+ padding-right: 0;
 }
 
 }
