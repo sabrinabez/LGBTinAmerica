@@ -38,8 +38,18 @@ margin-bottom: -2%;
   letter-spacing: 0.1em;
   size: 50em;
 }
+.imaged{
+  margin: auto;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.imaged img{
+ width: 60%;
+}
 
 .intro {
+    padding-top: 5em;
   color: #fefefe;
   font-family: 'Oxygen',sans-serif;
   font-weight: 300;
@@ -52,8 +62,6 @@ margin-bottom: -2%;
 }
 
 .section{
-  padding-top: 500px;
-  padding-bottom: 500px;
   width: 50%;
   color: #fefefe;
   font-family: 'Oxygen',sans-serif;
@@ -88,7 +96,7 @@ margin-bottom: -2%;
 }
 
 .blocked {
-  height: 350px;
+  height: 500px;
 }
 
 .button {
@@ -137,6 +145,8 @@ margin-bottom: -2%;
 }
 
 @media only screen and (max-width: 650px){
+
+
   .head{
     font-size: 100px;
     padding-top: 10%;
@@ -147,10 +157,9 @@ margin-bottom: -2%;
   }
 
   .intro h1{
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
     padding: 0%;
-    margin: 0%;
   }
 
   .intro p{
@@ -160,6 +169,17 @@ margin-bottom: -2%;
   .section{
     width: 90%;
   }
+}
+
+@media only screen and (max-width: 450px){
+.intro p{
+      font-size: 18px;
+}
+
+.section p{
+      font-size: 18px;
+}
+
 }
 
 
