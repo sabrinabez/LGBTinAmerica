@@ -212,6 +212,11 @@ p{
  padding-right: 0;
 }
 
+.underscore p{
+  width: 80%;
+  font-size: 14px;
+  }
+
 }
 
 
