@@ -56,12 +56,19 @@ p{
  padding-right: 5%;
 }
 
+.underscore img{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  margin-left: -25px;
+}
+
 .underscore p{
   font-size: 16px;
   width: 50%;
   color: #fefefe;
   text-rendering: optimizeLegibility;
-  text-align:center;
+  text-align:left;
   margin-left: auto;
   margin-right: auto;
   display: -webkit-flex;
@@ -210,6 +217,10 @@ p{
  width: 100%;
  padding-left: 0;
  padding-right: 0;
+}
+.imaged{
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .underscore p{
