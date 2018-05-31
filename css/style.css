@@ -18,9 +18,10 @@ p{
     color: #fefefe;
     font-family: 'Oxygen',sans-serif;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 20px;
   line-height:1.25;
   vertical-align: top;  
+  margin: auto;
 }
 
 h1{ 
@@ -60,6 +61,19 @@ h1{
   letter-spacing: 0.1em;
   size: 50em;
 }
+
+
+.compact{
+  margin: auto;
+}
+.compact img{
+  width: 50%;
+}
+.compact p{
+  width: 50%;
+  display: inline-block;
+}
+
 .imaged{
   margin: auto;
   padding-left: 15%;
@@ -116,13 +130,6 @@ h1{
   vertical-align: top;
 }
 
-.column1 p{
-  font-weight: 300;
-  font-size: 20px;
-  line-height:1.25;
-  margin: auto;
-}
-
 .column1 h1{
   padding-top: 2.5%;
 }
@@ -173,6 +180,10 @@ h1{
 .blocked {
   height: 500px;
 }
+.miniblock {
+  height: 200px;
+}
+
 
 .button {
     background-color: #1a1a1a;
@@ -213,10 +224,15 @@ h1{
   .column4 p{
     width: 45%;
   }
+  .compact p{
+    width: 100%;
+  }
+  .compact img{
+    width: 100%;
+  }
 }
 
 @media only screen and (max-width: 900px){
-
   .head{
     font-size: 1250%;
   }
@@ -228,10 +244,15 @@ h1{
     padding-left: 5%;
     padding-right: 5%;
   }
-
 }
 
 @media only screen and (max-width: 750px){
+  .compact{
+    width: 95%;
+  }
+  .compact p{
+    width: 100%;
+  }
 .main-content{
   width: 90%;
   margin: auto;
@@ -276,6 +297,9 @@ h1{
 }
 
 @media only screen and (max-width: 550px){
+p{
+  font-size: 16px;
+}
 .main-content{
   width: 100%;
 }
@@ -288,13 +312,6 @@ h1{
 }
 
 @media only screen and (max-width: 450px){
-.intro p{
-      font-size: 18px;
-}
-
-.column1 p{
-      font-size: 18px;
-}
 .imaged img{
  width: 100%;
  padding-left: 0;
