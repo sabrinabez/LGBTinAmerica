@@ -1,3 +1,8 @@
+var script = document.createElement('script');
+ 
+script.src = "js/jquery.lazylinepainter-1.7.0.js";
+document.getElementsByTagName('head')[0].appendChild(script); 
+
 $('.txt').html(function(i, html) {
   var chars = $.trim(html).split("");
 
@@ -28,6 +33,38 @@ $(document).ready(function(){
     } // End if
   });
 });
+
+var obj1 = false;
+
+$(window).scroll(function() {
+   var hT = $('#logo').offset().top,
+       hH = $('#logo').outerHeight(),
+       wH = $(window).height(),
+       wS = $(this).scrollTop();
+   if (((wS+400) > (hT+hH-wH))&& (obj1==false)){
+          var $logo = $('#logo');
+
+          /**
+           * Setup your Lazy Line element.
+           * see README file for more settings
+           */
+
+                $logo.lazylinepainter({
+                        "svgData": svgData,
+                        "strokeWidth": 2,
+                        "strokeColor": "#e09b99",
+                        'drawSequential': false,
+                        'ease': 'easeInOutQuad',
+                        'onComplete':true,
+                        'speedMultiplier': 5
+                });
+                $logo.lazylinepainter('paint');
+                    obj1 = true;
+
+   }
+});
+
+
 
 particlesJS({
   "particles": {

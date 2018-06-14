@@ -62,6 +62,23 @@ h1{
   size: 50em;
 }
 
+.chart{
+width: 100%;
+position: relative;
+}
+
+.chart img{
+  position: absolute;
+  z-index: 1;
+}
+
+.aniwrap{
+  padding-top: -500px;
+  width: inherit;
+  z-index: -1;
+}
+
+
 
 .compact{
   margin: auto;

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="483.11" height="330.87" viewBox="0 0 483.11 330.87">
+  <defs>
+    <style>
+      .a {
+        font-size: 20px;
+        letter-spacing: 0.05em;
+      }
+
+      .a, .b, .e, .f {
+        fill: #fff;
+      }
+
+      .a, .e, .f {
+        font-family: Avenir-Light, Avenir;
+      }
+
+      .b, .e, .f {
+        font-size: 14px;
+      }
+
+      .b {
+        font-family: Avenir-Medium, Avenir;
+      }
+
+      .b, .e {
+        letter-spacing: 0.05em;
+      }
+
+      .c {
+        letter-spacing: -0.04em;
+      }
+
+      .d, .f {
+        letter-spacing: 0.05em;
+      }
+
+      .g {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+    </style>
+  </defs>
+  <title>Asset 16</title>
+  <g>
+    <g>
+      <text class="a" transform="translate(119.85 28.08)">4.6%</text>
+      <text class="a" transform="translate(214.79 63.83)">4%</text>
+      <text class="a" transform="translate(289.59 44.42)">4.3%</text>
+      <text class="a" transform="translate(375.83 110.35)">3.2%</text>
+      <text class="b" transform="translate(120.84 323.13)">BLACK</text>
+      <text class="b" transform="translate(202.3 324.43)">L<tspan class="c" x="7.97" y="0">A</tspan><tspan class="d" x="17.23" y="0">TINO</tspan></text>
+      <text class="b" transform="translate(291.66 324.43)">ASIAN</text>
+      <text class="b" transform="translate(375.6 324.43)">WHITE</text>
+      <text class="e" transform="translate(58.85 322.5)">RACE</text>
+      <text class="f" transform="translate(0 306.27)">% LGBT</text>
+    </g>
+    <g>
+      <g>
+        <line class="g" x1="58.65" y1="306.9" x2="482.73" y2="306.9"/>
+        <g>
+          <line class="g" x1="58.65" y1="306.9" x2="58.65" y2="299.47"/>
+          <line class="g" x1="482.73" y1="307.29" x2="482.73" y2="299.47"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+        </g>
+        <line class="g" x1="58.65" y1="306.9" x2="58.65" y2="9.56"/>
+        <g>
+          <line class="g" x1="58.28" y1="306.9" x2="69.25" y2="306.9"/>
+          <line class="g" x1="58.65" y1="247.43" x2="69.25" y2="247.43"/>
+          <line class="g" x1="58.65" y1="187.96" x2="69.25" y2="187.96"/>
+          <line class="g" x1="58.65" y1="128.5" x2="69.25" y2="128.5"/>
+          <line class="g" x1="58.65" y1="69.03" x2="69.25" y2="69.03"/>
+          <line class="g" x1="58.27" y1="9.56" x2="69.25" y2="9.56"/>
+        </g>
+      </g>
+      <g>
+        <rect class="g" x="359.75" y="116.6" width="76.33" height="190.3"/>
+        <rect class="g" x="274.93" y="51.19" width="76.33" height="255.71"/>
+        <rect class="g" x="190.12" y="69.03" width="76.33" height="237.87"/>
+        <rect class="g" x="105.3" y="33.35" width="76.33" height="273.55"/>
+      </g>
+    </g>
+  </g>
+</svg>
