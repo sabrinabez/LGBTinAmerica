@@ -335,6 +335,14 @@ p{
   h1{
     font-size: 20px;
   }
+
+  .aniwrap{
+    padding: 0;
+    padding-top: 2.5%;
+    padding-left: 2.5%;
+    width: 85%;
+  }
+  }
 }
 
 @media only screen and (max-width: 450px){
