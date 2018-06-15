@@ -536,10 +536,12 @@
     var _updatePosition = function(data, path) {
         var index = Math.round((path.progress * (path.length - 1)));
         var position = path.positions[index];
-        path.position = {
-            x: data.offset.left + position.x,
-            y: data.offset.top + position.y
-        };
+            if (typeof position !== "undefined") {
+                path.position = {
+                    x: data.offset.left + position.x,
+                    y: data.offset.top + position.y
+                };
+            }
     };
 
 

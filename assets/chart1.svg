@@ -1,1 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 483.11 330.87"><defs><style>.cls-1{fill:none;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#fff;stroke-miterlimit:10;stroke-width:0.75px;}.cls-2{fill:#7cc199;}.cls-3{fill:#58a366;}.cls-4{fill:#60c7d8;}.cls-5{fill:#229eba;}.cls-6{font-size:20px;letter-spacing:0.05em;}.cls-10,.cls-11,.cls-6,.cls-7{fill:#fff;}.cls-10,.cls-11,.cls-6{font-family:Avenir-Light, Avenir;}.cls-10,.cls-11,.cls-7{font-size:14px;}.cls-7{font-family:Avenir-Medium, Avenir;}.cls-10,.cls-7{letter-spacing:0.05em;}.cls-8{letter-spacing:-0.04em;}.cls-11,.cls-9{letter-spacing:0.05em;}</style></defs><title>Asset 9</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><line class="cls-1" x1="58.65" y1="306.9" x2="482.73" y2="306.9"/><line class="cls-1" x1="58.65" y1="306.9" x2="58.65" y2="299.47"/><line class="cls-1" x1="482.73" y1="307.29" x2="482.73" y2="299.47"/><text></text><text></text><text></text><text></text><text></text><text></text><line class="cls-1" x1="58.65" y1="306.9" x2="58.65" y2="9.56"/><line class="cls-1" x1="58.28" y1="306.9" x2="69.25" y2="306.9"/><line class="cls-1" x1="58.65" y1="247.43" x2="69.25" y2="247.43"/><line class="cls-1" x1="58.65" y1="187.96" x2="69.25" y2="187.96"/><line class="cls-1" x1="58.65" y1="128.5" x2="69.25" y2="128.5"/><line class="cls-1" x1="58.65" y1="69.03" x2="69.25" y2="69.03"/><line class="cls-1" x1="58.27" y1="9.56" x2="69.25" y2="9.56"/><rect class="cls-2" x="359.75" y="116.6" width="76.33" height="190.3"/><rect class="cls-3" x="274.93" y="51.19" width="76.33" height="255.71"/><rect class="cls-4" x="190.12" y="69.03" width="76.33" height="237.87"/><rect class="cls-5" x="105.3" y="33.35" width="76.33" height="273.55"/><text class="cls-6" transform="translate(119.85 57.08)">4.6%</text><text class="cls-6" transform="translate(214.79 92.83)">4%</text><text class="cls-6" transform="translate(289.59 73.42)">4.3%</text><text class="cls-6" transform="translate(375.83 139.35)">3.2%</text><text class="cls-7" transform="translate(120.84 323.13)">BLACK</text><text class="cls-7" transform="translate(202.3 324.43)">L<tspan class="cls-8" x="7.97" y="0">A</tspan><tspan class="cls-9" x="17.23" y="0">TINO</tspan></text><text class="cls-7" transform="translate(291.66 324.43)">ASIAN</text><text class="cls-7" transform="translate(375.6 324.43)">WHITE</text><text class="cls-10" transform="translate(58.85 322.5)">RACE</text><text class="cls-11" transform="translate(0 306.27)">% LGBT</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="483.11" height="330.87" viewBox="0 0 483.11 330.87">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+
+      .b {
+        font-size: 20px;
+        letter-spacing: 0.05em;
+      }
+
+      .b, .c, .f, .g {
+        fill: #fff;
+      }
+
+      .b, .f, .g {
+        font-family: Avenir-Light, Avenir;
+      }
+
+      .c, .f, .g {
+        font-size: 14px;
+      }
+
+      .c {
+        font-family: Avenir-Medium, Avenir;
+      }
+
+      .c, .f {
+        letter-spacing: 0.05em;
+      }
+
+      .d {
+        letter-spacing: -0.04em;
+      }
+
+      .e, .g {
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <title>Asset 13</title>
+  <g>
+    <g>
+      <g>
+        <line class="a" x1="58.65" y1="306.9" x2="482.73" y2="306.9"/>
+        <g>
+          <line class="a" x1="58.65" y1="306.9" x2="58.65" y2="299.47"/>
+          <line class="a" x1="482.73" y1="307.29" x2="482.73" y2="299.47"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+          <text></text>
+        </g>
+        <line class="a" x1="58.65" y1="306.9" x2="58.65" y2="9.56"/>
+        <g>
+          <line class="a" x1="58.28" y1="306.9" x2="69.25" y2="306.9"/>
+          <line class="a" x1="58.65" y1="247.43" x2="69.25" y2="247.43"/>
+          <line class="a" x1="58.65" y1="187.96" x2="69.25" y2="187.96"/>
+          <line class="a" x1="58.65" y1="128.5" x2="69.25" y2="128.5"/>
+          <line class="a" x1="58.65" y1="69.03" x2="69.25" y2="69.03"/>
+          <line class="a" x1="58.27" y1="9.56" x2="69.25" y2="9.56"/>
+        </g>
+      </g>
+      <g>
+        <rect class="a" x="359.75" y="116.6" width="76.33" height="190.3"/>
+        <rect class="a" x="274.93" y="51.19" width="76.33" height="255.71"/>
+        <rect class="a" x="190.12" y="69.03" width="76.33" height="237.87"/>
+        <rect class="a" x="105.3" y="33.35" width="76.33" height="273.55"/>
+      </g>
+    </g>
+    <text class="b" transform="translate(119.85 29.74)">4.6%</text>
+    <text class="b" transform="translate(214.79 65.49)">4%</text>
+    <text class="b" transform="translate(289.59 46.08)">4.3%</text>
+    <text class="b" transform="translate(375.83 112.01)">3.2%</text>
+    <text class="c" transform="translate(120.83 323.13)">BLACK</text>
+    <text class="c" transform="translate(202.3 324.43)">L<tspan class="d" x="7.97" y="0">A</tspan><tspan class="e" x="17.23" y="0">TINO</tspan></text>
+    <text class="c" transform="translate(291.66 324.43)">ASIAN</text>
+    <text class="c" transform="translate(375.6 324.43)">WHITE</text>
+    <text class="f" transform="translate(58.84 322.5)">RACE</text>
+    <text class="g" transform="translate(0 306.27)">% LGBT</text>
+  </g>
+</svg>

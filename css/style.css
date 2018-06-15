@@ -63,22 +63,22 @@ h1{
 }
 
 .chart{
-width: 100%;
-position: relative;
+padding-bottom: 2%;
 }
 
 .chart img{
   position: absolute;
-  z-index: 1;
+  display: inherit;
+  width: 37%;
 }
 
 .aniwrap{
-  padding-top: -500px;
-  width: inherit;
+  display: inherit;
   z-index: -1;
+  padding-top: 2.5%;
+  padding-left: 1%;
+  width: 98%;
 }
-
-
 
 .compact{
   margin: auto;
@@ -281,8 +281,9 @@ position: relative;
     width: 90%;
     margin: auto;
   }
-  .column1 img{
-    width: 90%;
+
+  .chart img{
+    width: 41%;
   }
 }
 
@@ -310,6 +311,14 @@ position: relative;
 
   .column1{
     width: 90%;
+  }
+
+  .chart img{
+    width: 80%;
+  }
+
+  .aniwrap{
+    width: 97%;
   }
 }
 

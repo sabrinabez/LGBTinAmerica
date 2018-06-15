@@ -52,7 +52,7 @@ $(window).scroll(function() {
                 $logo.lazylinepainter({
                         "svgData": svgData,
                         "strokeWidth": 2,
-                        "strokeColor": "#e09b99",
+                        'strokeColor': '#E83BB4',
                         'drawSequential': false,
                         'ease': 'easeInOutQuad',
                         'onComplete':true,
